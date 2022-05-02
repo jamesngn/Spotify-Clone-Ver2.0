@@ -1,0 +1,91 @@
+5
+Neil Diamond
+Greatest Hits
+images/artwork/NeilDiamond.jpg
+images/artwork/NeilDiamond_small.jpg
+2
+3
+Crackling Rose
+Songs/Intro music 15 seconds.wav
+Soolaimon
+Songs/Intro_Outro music 15 seconds.wav
+Sweet Caroline
+Songs/Intro music 15 seconds.wav
+Platters
+Greatest Hits
+images/artwork/The Platters.jpg
+images/artwork/The Platters_small.jpg
+1
+2
+Twilight Time
+Songs/Intro music 15 seconds.wav
+The Great Pretender
+Songs/Intro_Outro music 15 seconds.wav
+Don McClean
+American Pie
+images/artwork/Don McClean.png
+images/artwork/Don McClean_small.png
+2
+15
+Phi Hành Gia
+Songs/my album/[BASS6 x 95G] - PHI HÀNH GIA - RENJA x SLOW T x LIL WUYN x KAIN x SUGAR CANE (Prod. THINHHO).wav
+Nhiệt Tâm 105⁰C Của Cậu
+Songs/my album/[Vietsub] Nhiệt Tâm 105°C Của Cậu - A Tứ _ 热爱105°C的你 - 阿肆.wav
+An Thần
+Songs/my album/An Thần (ft. Thắng) _ Low G _ Rap Nhà Làm.wav
+Bài Học Tiếng Mèo kêu
+Songs/my album/Bài học tiếng mèo kêu - QUỐC BEAT 62.wav
+Chán Gái 707
+Songs/my album/Chán Gái 707 _ Low G _ Rap Nhà Làm.wav
+Light Switch
+Songs/my album/Charlie Puth - Light Switch [Official Music Video].wav
+Có Đúng Không Em
+Songs/my album/Có đúng không em - Nger (lyric).wav
+Flexin Trên Circle K
+Songs/my album/flexin tren circle K.wav
+Gieo Quẻ
+Songs/my album/Gieo Quẻ - Hoàng Thuỳ Linh & ĐEN _ Yến Napun Cover.wav
+Ngày mai anh hát...
+Songs/my album/Ngày mai anh hát cho em hôm nay một bản tình ca (live at 'Ớ kìa' show) _ MCK _ nger x hnhngan.wav
+okeokeoke
+Songs/my album/okeokeoke _ Low G _ Nhà Hóa Học Đống Đa.wav
+Tán Gái 505
+Songs/my album/Tán Gái 505 _ Low G _ Rap Nhà Làm.wav
+Tán Gái 606
+Songs/my album/Tán Gái 606 _ Low G _ Rap Nhà Làm.wav
+TO THE MOON
+Songs/my album/TO THE MOON - hooligan. (Official Lyric Video).wav
+Xích Thêm Chút
+Songs/my album/Xích Thêm Chút - XTC Remix _ RPT Groovie ft TLinh x RPT MCK (Prod. by fat_benn & RPT LT)_ RAPITALOVE.wav
+Carly Simon
+No Secrets
+images/artwork/Carly Simon.jpg
+images/artwork/Carly Simon_small.jpg
+2
+3
+The Carter Family
+Songs/02-The_Carter_Family.wav
+Your So Vain
+Songs/03-Youre_So_Vain.wav
+Embrace me You Child
+Songs/06-Embrace_Me_You_Child.wav
+Quang Nguyen
+ENGLISH
+images/artwork/new_playlist.jpg
+images/artwork/new_playlist_small.jpg
+2
+7
+Crackling Rose
+Songs/Intro music 15 seconds.wav
+Soolaimon
+Songs/Intro_Outro music 15 seconds.wav
+Sweet Caroline
+Songs/Intro music 15 seconds.wav
+Twilight Time
+Songs/Intro music 15 seconds.wav
+The Great Pretender
+Songs/Intro_Outro music 15 seconds.wav
+Light Switch
+Songs/my album/Charlie Puth - Light Switch [Official Music Video].wav
+TO THE MOON
+Songs/my album/TO THE MOON - hooligan. (Official Lyric Video).wav

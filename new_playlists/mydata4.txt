@@ -1,0 +1,14 @@
+Quang Nguyen
+New Playlist Name
+images/artwork/new_playlist.jpg
+images/artwork/new_playlist_small.jpg
+2
+4
+Crackling Rose
+Songs/Intro music 15 seconds.wav
+Soolaimon
+Songs/Intro_Outro music 15 seconds.wav
+Sweet Caroline
+Songs/Intro music 15 seconds.wav
+Twilight Time
+Songs/Intro music 15 seconds.wav
